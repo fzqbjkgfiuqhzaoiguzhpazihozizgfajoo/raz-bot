@@ -1,6 +1,6 @@
-token=NTI4MTY1MTQ3MDY4MzM0MDgw.DweTuw.CPl0ZJxvsOz4VDgGakm1CK0CbDk
-owner=454421822478352416 
-prefix=3
-game=Zemix Community
-stayinchannel=true
-songinstatus=true
+token=NTU0MDc1MzA3Mzg5MzUzOTk4.D2XWmw.-KFNVmKYAkA_LwaLrNlVhg_e87U
+owner=428296740991533066
+prefix=R
+game=إجعل من الحلم حقيقة ‘ :)
+stayinchannel=false 
+songinstatus=false
