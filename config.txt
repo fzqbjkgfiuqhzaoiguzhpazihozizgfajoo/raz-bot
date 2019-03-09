@@ -1,0 +1,6 @@
+token=NTI4MTY1MTQ3MDY4MzM0MDgw.DweTuw.CPl0ZJxvsOz4VDgGakm1CK0CbDk
+owner=454421822478352416 
+prefix=3
+game=Zemix Community
+stayinchannel=true
+songinstatus=true
